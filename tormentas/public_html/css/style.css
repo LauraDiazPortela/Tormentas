@@ -1,0 +1,57 @@
+header{
+    width: 100%;
+    height: auto;
+    padding-top:2em;
+    padding-bottom: 2em;
+    background-color:black;
+    text-align: center;
+    color:white;   
+    font-family: "Time bew Roman",times,serif;
+    
+}
+.img_iz{
+    padding:0.2em;
+    border:3px solid blue;
+}
+.text_contra_ca{
+    width: 847px;
+    height: 100px;
+    font-size: 3em;
+    font-family: "Time bew Roman",times,serif;
+    text-align: center;
+    text-shadow: 24px 26px 4px rgba(225, 0, 168, 0.69);
+}
+.text_tormenta{
+    width: 409px;
+    height: 250px;
+    overflow: auto;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 1.3em;
+    line-height: 1em;
+    color:#737373;
+    text-align: justify;
+    
+}
+body{
+    background-color: black;
+}
+
+.texto_cuerpo{
+    width: 262px;
+    height: 100px;
+    overflow: auto;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 1em;
+    line-height: 1em;
+    color:#737373;
+    text-align: justify;
+}
+ 
+.footer{
+    width: 1140px;
+    height: 50px;
+    text-align:center;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 2em;
+    color:#777;
+}
